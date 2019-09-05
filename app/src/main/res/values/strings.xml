@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator History</string>
+    
+    <string name="number_a">Number A</string>
+    <string name="number_b">Number B</string>
+    <string name="result">result</string>
+
+    <string name="title_app">Calculator</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="divison">/</string>
+
+    <string name="send_result">SEND RESULT</string>
+    <string name="send">SEND</string>
+</resources>
